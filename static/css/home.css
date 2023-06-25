@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+body {
+    margin: 0 auto;
+    
+}
+
+.body_image{
+    object-fit: fill;
+    width: 100vw;
+    height: 100vh;
+}
