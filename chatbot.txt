@@ -1,0 +1,202 @@
+    else if (input == "what is the study material provided by sciastra for iisER ") {
+        return "sciastra provides study material for iisER Aptitude Test from 2017 to 2022.";
+    }
+
+    //61
+    else if (input == "is the 'Everything series' course enough to get into iisc Bangalore ") {
+        return "Except for the revision classes, it has most";
+    }
+
+    //45
+    else if (input == "what will be covered in the Vikram batch ") {
+        return "Complete 11th will be covered first in the Vikram batch, and then we will start with 12th Class.";
+    }
+
+    //29
+    else if (input == "what should i do if i have questions related to responsibility-taking ") {
+        return "if you have questions related to responsibility-taking, it should be answered only if confirmed, or the student should be politely told to refer to the official website."
+    }
+
+    else if (input == "Will i be able to access everything on the web ") {
+        return "Yes, you will be able to access everything on the web.";
+    }
+
+    else if (input == "is there a practice session available for the examination ") {
+        return "Yes, practice sessions and a mock test link will be available on the NEST 2023 website.";
+    }
+
+    else if (input == "how do candidates provide answers during the examination ") {
+        return "Candidates enter their details on the computer terminal and provide answers using the electronic equipment provided."
+    }
+
+    //44
+    else if (input == "Will the guide answer all my questions ") {
+        return "Yes, the guide will clear all your doubts.";
+    }
+
+    else if (input == "how can applicants access the practice sessions for the computer-based test ") {
+        return "Applicants can access practice sessions on the computer-based test after online registration and submission of the application using the correct login credentials.";
+    }
+
+    else if (input == "what is the purpose of the Rank List ") {
+        return "The purpose of the Rank List is to rank the candidates based on their total marks obtained out of 240.";
+    }
+
+    else if (input == "what is the CiN of the company ") {
+        return "The CiN of the company is U80902OR2021PTC038448.";
+    }
+
+    else if (input == "Can you make video solutions for mock tests ") {
+        return "We conduct live doubt-clearing sessions of all the Mocks held in the week on Saturdays and Sundays. The Classes are on Google Meet, and the link can be found in the announcement section of the course, and the recordings are also uploaded in the Google sheet.";
+    }
+
+    else if (input == "Where can i find the declaration form ") {
+        return "You can download the 'DECLARATiON BY THE CANDiDATE iN LiEU OF ELiGiBiLiTY EXAM CERTiFiCATE/MARKSHEET' form from the Downloads section.";
+    }
+    //63
+    else if (input == "what is the welcome message for students who buy a course worth more than Re 1 ") {
+        return "We do not have information on a welcome message for students who buy a course worth more than Re 1.";
+    }
+    //64
+    else if (input == "Where is the unmute button in live class ") {
+        return "Even though the teacher unmuted me he could not hear me";
+    }
+
+    //66
+    else if (input == "") {
+        return "";
+    }
+    //67
+
+    else if (input == "what are the minimum subjects required for admission ") {
+        return "Candidates must have taken at least three subjects among Biology, Chemistry, Mathematics and Physics during their Class Xii (or equivalent) exam."
+    }
+    //69
+
+    //70
+    else if (input == "what should i do after filling out the declaration form ") {
+        return "Scan the signed declaration form and upload the scanned copy of the signed declaration form.";
+    }
+
+    else if (input == "what is the link for course upgradation form ") {
+        return "Sorry, the link for course upgradation form is not provided in the given text.";
+    }
+    //73
+    else if (input == "what language is the question paper in ") {
+        return "The question paper is in English.";
+    }
+    //74
+    else if (input == "how long should i spend watching the guide ") {
+        return "You should spend 10 minutes watching the guide.";
+    }
+
+    else if (input == " ") {
+        return "";
+    }
+
+    else if (input == "Why is the iAT 2022 paper on the sciastra app different from the one on the website ") {
+        return "what we uploaded is from the response sheet of students who attempted iAT last year. The paper uploaded on iAT official website is not the actual paper that was conducted.";
+    }
+    //80
+    else if (input == "what should candidates do to be considered for admission ") {
+        return "Candidates must make a preference list from these programs for which they want to be considered for admission";
+    }
+
+
+    else if (input == "how do candidates provide answers during the examination ") {
+        return "Candidates enter their details on the computer terminal and provide answers using the electronic equipment provided.";
+    }
+
+    else if (input == "is the 'Everything series' course enough to get into iisc Bangalore ") {
+        return "Except for the revision classes, it has most";
+    }
+
+    else if (input == "what should i do after filling out the declaration form ") {
+        return "Scan the signed declaration form and upload the scanned copy of the signed declaration form.";
+    }
+
+    else if (input == "how long should i spend watching the guide ") {
+        return "You should spend 10 minutes watching the guide."
+    }
+    //96
+    else if (input == "what should candidates do to be considered for admission ") {
+        return "Candidates must make a preference list from these programs for which they want to be considered for admission"
+    }
+    //97
+    else if (input == "how is the merit list calculated ") {
+        return "The merit list considers the best three qualifying scores, omitting the section with the worst score. Therefore, attempting all sections is advantageous.";
+    }
+    //98
+    else if (input == "Why is the iAT 2022 paper on the sciastra app different from the one on the website ") {
+        return "what we uploaded is from the response sheet of students who attempted iAT last year. The paper uploaded on iAT official website is not the actual paper that was conducted.";
+    }
+    //99
+    else if (input == "is there a practice session available for the examination ") {
+        return "Yes, practice sessions and a mock test link will be available on the NEST 2023 website.";
+    }
+    //100
+    else if (input == "Will i be able to access everything on the web ") {
+        return "Yes, you will be able to access everything on the web.";
+    }
+    //101
+    else if (input == "Do you have any idea about the reopening of the correction window for iAT ") {
+        return "We do not have any information about the reopening of the correction window for iAT.";
+    }
+
+    else if (input == "what is the percentage of seats reserved for SC candidates ") {
+        return "15% of seats are reserved for Scheduled Caste (SC) candidates.";
+    }
+
+    //106
+    else if (input == "what is the marking scheme for multiple correct answer MCQs ") {
+        return "The rank cut-off will be announced at an appropriate time.";
+    }
+
+    else if (input == "Where can i find the guide to the course ") {
+        return "The guide to the course is in a playlist on YouTube.";
+    }
+
+    else if (input == "what type of test is the examination ") {
+        return "The examination is a Computer-Based Test (CBT).";
+    }
+
+    else if (input == "how many programs will candidates be shown across iisERs ") {
+        return "Candidates will be shown 9 programs across 7 iisERs (or 7 programs across 7 iisERs if they did not have Mathematics as a subject in class Xii)";
+    }
+
+    else if (input == "what is the link to the playlist ") {
+        return "The link to the playlist is https://youtubecom/playlist list=PLcBEmbz3Rv8A0dg3X1yGlYDFhzZ4Oh__h.";
+    }
+
+    else if (input == "") {
+        return "";
+    }
+
+    else if (input == "Will every candidate appearing in iAT 2023 be awarded a rank ") {
+        return "No, not every candidate appearing in iAT 2023 will be awarded a rank."
+    }
+    //124
+    else if (input == "Where is the unmute button in live class ") {
+        return "Even though the teacher unmuted me he could not hear me";
+    }
+    //125
+    else if (input == " ") {
+        return "";
+    }
+    //126
+    else if (input == "what is the link for the application form ") {
+        return "The link for the application form is https://formsgle/RxKFmNRzLVnKFJuR9.";
+    }
+    //127
+    else if (input == "Where can i find PYQ solutions ") {
+        return "All the detailed PYQ solutions can be found in the PYQ Exams that are being conducted";
+    }
+ 
+    //129
+    else if (input == "what marks will be considered for preparing the Rank List ") {
+        return "The total marks obtained by a candidate out of 240 will be considered for preparing the Rank List.";
+    }
+
+    else if (input == "Where can i download Physics NisER PYQ ") {
+        return "You can download Physics NisER PYQ from the given link 'Download Now'.";
+    }
